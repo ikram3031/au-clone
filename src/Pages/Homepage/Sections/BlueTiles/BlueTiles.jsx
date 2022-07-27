@@ -3,6 +3,7 @@ import "./BlueTiles.scss";
 
 export default function BlueTiles() {
     return (
+        
         <section id="bluetiles">
             <div className="card">
                 <div className="details">
